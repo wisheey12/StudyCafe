@@ -1,5 +1,6 @@
 # StudyCafe
 자바프로그래밍 수업 과제 => JAVA GUI와 DB를 활용한 프로그램\
+eclipse, mysql 사용
 <br><br><br><br><br>
 
 ## 구현기능
